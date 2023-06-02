@@ -1,17 +1,16 @@
 package day5;
 
+import java.util.Scanner;
+
 /**
  * Write a method to display the digits of a given integer value n in reverse order.
  * @author Buyantugs
  * @since 06/02/2023
  */
 public class Prog1 {
-
     public static void main(String[] args) {
-
-        reversDigit(356472);
+         reversDigit(35647); //input any Long variable
     }
-
     public static void reversDigit(long digits){
 
         if(digits<10){ //base case
