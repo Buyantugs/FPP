@@ -3,6 +3,7 @@ package day5;
 import java.util.Scanner;
 
 /**
+ * Assignment 1 for day 5
  * Write a method to display the digits of a given integer value n in reverse order.
  * @author Buyantugs
  * @since 06/02/2023
